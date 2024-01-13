@@ -1,0 +1,7 @@
+/zig-cache
+/zig-out
+/src/root.zig
+
+*.exe
+*.exe.obj
+*.pdb
